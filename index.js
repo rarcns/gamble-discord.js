@@ -3,7 +3,7 @@ const { REST } = require("@discordjs/rest");
 const { Routes } = require("discord-api-types/v9");
 const fs = require('fs');
 
-const token = "anytoken;
+const token = "anytoken";
 const clientId = "anyclientid";
 const commands = [
   {
