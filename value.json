@@ -1,0 +1,9 @@
+{
+    "userid": {//user id - value
+      "value": 100 //balance of this user(e.g.100)
+    }
+    "userid2": {//user2
+      "value": 100 //balance of user2
+    }//if you want add userlist,learn how to add//if you want add userlist,learn how to add
+  }
+  
